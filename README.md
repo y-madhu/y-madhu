@@ -34,7 +34,12 @@ Project Overview :
 Title : <b>Notepad</b></br>
 Project Overview :
 > - Designed and implemented a user-friendly graphical interface using GUI framework.
-> - Implemented robust file handling mechanisms to ensure seamless document management, allowing users to create, edit, and save text files effortlessly.
+> - Implemented robust file handling mechanisms to ensure seamless document management, allowing users to create, edit, and save text files effortlessly.</br>
+
+Title : <b>Alarm_Remainder</b></br>
+Project Overview :
+> - Created a user-friendly interface that allowed users to set, modify, and delete alarms and reminders with ease.
+
 
 
 
