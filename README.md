@@ -1,6 +1,6 @@
-# <div align="center"> YANAMALAMANDA MADHU </DIV>
+# <div align="center"> YANAMALAMANDA MADHU </div>
 
-## <div align="center"> EDUCATION</DIV>
+## <div align="center"> EDUCATION</div>
 ### Course : B.Tech</br>
 University Name : Rajiv Gandhi University of knowledge Technologies - Srikakulam </br>
 Specialization : Electronics and Communication Engineering </br>
@@ -14,7 +14,7 @@ CGPA : <b>8.53/10</b> </br>
 School Name : Z.P.High School G.D.Nellore </br>
 Board : Board of Secondary Education Andhra Pradesh </br>
 GPA : <b>9.5/10</b> </br>
-## <div align="center"> PROJECTS</DIV>
+## <div align="center"> PROJECTS</div>
 ### Final Year Project
 Title : <b>Automated Health Graph Generator</b> </br>
 Role: Team leader and Coder </br>
@@ -38,8 +38,14 @@ Project Overview :
 
 Title : <b>Alarm_Remainder</b></br>
 Project Overview :
-> - Created a user-friendly interface that allowed users to set, modify, and delete alarms and reminders with ease.
+> - Created a user-friendly interface that allowed users to set, modify, and delete alarms and reminders with ease.</br>
 
+## <div align="center"> ACHIEVEMENTS </div>
+> - Recieved Prathibha award from AP state government in 2017.
+> - Participated in state level Exhibition and Project competitions, AP in 2015.
+> - Got Merit certificate in All India Essay Writing event Organised by Sri Rama Chandra Mission & UNIC in 2015.
+> - Got Merit Certificate in District Level Science Exhibition, chittoor in 2014.
+> - Got National Means-Cum-Merit Scholarship (NMMS), State Education Board, AP in 2014.
 
 
 
