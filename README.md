@@ -14,6 +14,23 @@ CGPA : <b>8.53/10</b> </br>
 School Name : Z.P.High School G.D.Nellore </br>
 Board : Board of Secondary Education Andhra Pradesh </br>
 GPA : <b>9.5/10</b> </br>
+## <div align="center"> PROJECTS</DIV>
+### Final Year Project
+Title : <b>Automated Health Graph Generator</b> </br>
+Role: Team leader and Coder </br>
+Language used: Python </br>
+Project Overview:
+> - Utilized optical character recognition (OCR) technology to
+extract relevant data from reports and ensure accurate
+data input.
+> - Utilized Matplotlib, a powerful data visualization library in
+Python, to create dynamic and customizable graphs
+showcasing key health metrics.
+> - Prioritized user experience by providing clear labels, titles,
+and legends on the graphs, making them easy to
+understand and interpret.
+
+
 
 
 
