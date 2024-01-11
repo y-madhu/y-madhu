@@ -80,7 +80,7 @@ Project Overview :
 ## <div align="center"> CONTACT INFORMATION </div>
 Mobile No : +91 7893894733</br>
 E-Mail: madhuakp1729@gmail.com</br>
-Linkedin : https://www.linkedin.com/in/yanamalamanda-madhu5321a6254</br>
+Linkedin : https://www.linkedin.com/in/yanamalamanda-madhu-5321a6254</br>
 GitHub : https://github.com/y-madhu</br>
 
 
