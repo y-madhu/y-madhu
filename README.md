@@ -1,6 +1,6 @@
 # <div align="center"> YANAMALAMANDA MADHU </div>     
 
-> ## <div align="center"> SKILLS </div>
+## <div align="center"> SKILLS </div>
 
 <b>Operating System :</b> Windows </br>
 <b>IDEs : </b> IntelliJ IDEA </br>
@@ -15,7 +15,7 @@
 > - CSS ( Basics)</br>
 </br>
 
-> ## <div align="center"> EDUCATION  </div>     
+## <div align="center"> EDUCATION  </div>     
 ### Course : B.Tech</br>
 University Name : Rajiv Gandhi University of knowledge Technologies - Srikakulam </br>
 Specialization : Electronics and Communication Engineering </br>
@@ -31,7 +31,7 @@ Board : Board of Secondary Education Andhra Pradesh </br>
 GPA : <b>9.5/10</b> </br>
 </br>
 
-> ## <div align="center"> PROJECTS</div>
+## <div align="center"> PROJECTS</div>
 ### Final Year Project
 Title : <b>Automated Health Graph Generator</b> </br>
 Role: Team leader and Coder </br>
@@ -60,7 +60,7 @@ Project Overview :
 > - Created a user-friendly interface that allowed users to set, modify, and delete alarms and reminders with ease.</br>
 </br>
 
-> ## <div align="center"> ACHIEVEMENTS </div>
+## <div align="center"> ACHIEVEMENTS </div>
 > - Recieved Prathibha award from AP state government in 2017.
 > - Participated in state level Exhibition and Project competitions, AP in 2015.
 > - Got Merit certificate in All India Essay Writing event Organised by Sri Rama Chandra Mission & UNIC in 2015.
@@ -68,11 +68,14 @@ Project Overview :
 > - Got National Means-Cum-Merit Scholarship (NMMS), State Education Board, AP in 2014.
 </br>
 
-> ## <div align="center"> LANGUAGES </div>
+## <div align="center"> LANGUAGES </div>
 
-| Language Name              | Read                | Write | Speak | Proficiency |
-|----------------------------|------|-------|-------|-------------|
+| Language Name | Read | Write | Speak | Proficiency |
+|---------------|------|-------|-------|-------------|
 | Telugu |yes|yes|yes|Advanced|
+|English| yes|yes|yes|Proficient|
+|Tamil|No|No|Yes|Beginner|
+</br>
 
 
 
