@@ -19,7 +19,7 @@ GPA : <b>9.5/10</b> </br>
 Title : <b>Automated Health Graph Generator</b> </br>
 Role: Team leader and Coder </br>
 Language used: Python </br>
-Project Overview:
+Project Overview :
 > - Utilized optical character recognition (OCR) technology to extract relevant data from reports and ensure accurate data input.
 > - Utilized Matplotlib, a powerful data visualization library in Python, to create dynamic and customizable graphs showcasing key health metrics.
 > - Prioritized user experience by providing clear labels, titles, and legends on the graphs, making them easy to understand and interpret.
@@ -29,7 +29,12 @@ Title : <b>Scientific Calculator </b></br>
 Project Overview : 
 > - Designed and implemented an intuitive user interface (UI) to input mathematical expressions.
 > - Integrated a wide range of mathematical functions, including trigonometric, logarithmic, exponential functions.
-> - Implemented a history feature to store and recall previous calculations, enhancing user convenience.
+> - Implemented a history feature to store and recall previous calculations, enhancing user convenience.</br>
+
+Title : <b>Notepad</b></br>
+Project Overview :
+> - Designed and implemented a user-friendly graphical interface using GUI framework.
+> - Implemented robust file handling mechanisms to ensure seamless document management, allowing users to create, edit, and save text files effortlessly.
 
 
 
