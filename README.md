@@ -1,5 +1,18 @@
 # <div align="center"> YANAMALAMANDA MADHU </div>
 
+## <div align="center"> SKILLS </div>
+<b>Operating System :</b> Windows </br>
+<b>IDEs : </b> IntelliJ IDEA </br>
+<b>Version Control : </b> Git </br>
+<b>Programming Languages :</b></br>
+> - Java</br>
+      - Java basics(Loops,Arrays,Strings)</br>
+      - Oops Concepts</br>
+      - Exception Handling</br>
+> - Python</br>
+> - HTML ( Basics)</br>
+> - CSS ( Basics)</br>
+
 ## <div align="center"> EDUCATION</div>
 ### Course : B.Tech</br>
 University Name : Rajiv Gandhi University of knowledge Technologies - Srikakulam </br>
@@ -46,6 +59,9 @@ Project Overview :
 > - Got Merit certificate in All India Essay Writing event Organised by Sri Rama Chandra Mission & UNIC in 2015.
 > - Got Merit Certificate in District Level Science Exhibition, chittoor in 2014.
 > - Got National Means-Cum-Merit Scholarship (NMMS), State Education Board, AP in 2014.
+
+
+
 
 
 
