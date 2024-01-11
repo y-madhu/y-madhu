@@ -72,8 +72,8 @@ Project Overview :
 
 | Language Name | Read | Write | Speak | Proficiency |
 |---------------|------|-------|-------|-------------|
-| Telugu |yes|yes|yes|Advanced|
-|English| yes|yes|yes|Proficient|
+| Telugu |Yes|Yes|Yes|Advanced|
+|English| Yes|Yes|Yes|Proficient|
 |Tamil|No|No|Yes|Beginner|
 </br>
 
